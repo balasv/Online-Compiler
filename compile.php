@@ -118,7 +118,9 @@
 </div>
 </div>
 </div><br><br><br>
-
+<div>
+	<input type="submit" class="btn btn-success" value="Go Back">index.php
+	</div>
 <div class="area">
 <div class="well foot">
 <div class="row area">
