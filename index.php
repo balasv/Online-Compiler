@@ -83,7 +83,7 @@
 <option value="cpp">C++</option>
 <option value="cpp11">C++11</option>
 <option value="java">Java</option>
-<option value="python3.2">Python2</option>
+<option value="python3.2">Python;</option>
   
 
 </select><br><br>
@@ -118,12 +118,7 @@
 <div class="col-sm-5">
 
 
-<div class="fm">
 
-<b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
-
-</div>
 </div>
 
 
