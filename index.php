@@ -81,7 +81,7 @@
 <textarea class="form-control" name="code" rows="10" cols="50"></textarea><br><br>
 <label for="in">Enter Your Input(Optional)</label>
 <textarea class="form-control" name="input" rows="10" cols="50"></textarea><br><br>
-<input type="submit" class="btn btn-success" value="Run Code"><br><br><br>
+<input type="submit" class="btn btn-success" value="Save and Execute"><br><br><br>
 
 
 </form>
