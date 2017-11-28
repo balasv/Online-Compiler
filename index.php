@@ -7,7 +7,7 @@
     
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Home</title>
+        <title>SVCE Code Compiler</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -19,11 +19,6 @@
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="bootstrap-3.3.7/js/bootstrap.min.js" </script>
         <script src="bootstrap-3.3.7/js/bootstrap.js" </script>
-
-
-
-
-
 
 
 
@@ -40,11 +35,7 @@
             </button>
     </div>
    <div class="collapse navbar-collapse navbar-menubuilder">
-    <ul class="nav navbar-nav">
-      <li class="space"><a href="#"><i class="fa fa-code ispace"></i>Compiler</a></li>
-      <li class="space"><a href="#"><i class="fa fa-check-square ispace"></i>Debug</a></li>
-        
-    </ul>
+    
     </div>
 </nav>
 </div>
@@ -73,12 +64,11 @@
 <div class="col-sm-8">
 <div class="form-group">
 <form action="compile.php" name="f2" method="POST">
-<label for="lang">Choose Language</label>
+<label for="lang">Select the Language</label>
 
 <select class="form-control" name="language">
 <option value="c">C</option>
 <option value="cpp">C++</option>
-<option value="cpp11">C++11</option>
 <option value="java">Java</option>
 <option value="python3.2">Python</option>
   
